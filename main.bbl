@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{Alpher03}
+Alpher, A., , Fotheringham-Smythe, J.P.N.: Frobnication revisited. Journal of
+  Foo  13(1),  234--778 (2003)
+
+\bibitem{Alpher04}
+Alpher, A., , Fotheringham-Smythe, J.P.N., Gamow, G.: Can a machine frobnicate?
+  Journal of Foo  14(1),  234--778 (2004)
+
+\bibitem{Alpher02}
+Alpher, A.: Frobnication. Journal of Foo  12(1),  234--778 (2002)
+
+\end{thebibliography}
