@@ -1,71 +1,46 @@
-This is BibTeX, Version 0.99d (TeX Live 2012)
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
-White space in argument---line 12 of file main.aux
- : \citation{cite:2,
- :                   cite:3, cite:4}
-I'm skipping whatever remains of this command
-White space in argument---line 14 of file main.aux
- : \citation{cite:6,
- :                   cite:7, cite:3}
-I'm skipping whatever remains of this command
-White space in argument---line 21 of file main.aux
- : \citation{cite:12,
- :                    cite:14}
-I'm skipping whatever remains of this command
-White space in argument---line 29 of file main.aux
- : \citation{cite:15,
- :                    cite:16, cite:17, cite:18}
-I'm skipping whatever remains of this command
-White space in argument---line 32 of file main.aux
- : \citation{cite:11,
- :                    cite:21, cite:22}
-I'm skipping whatever remains of this command
-White space in argument---line 33 of file main.aux
- : \citation{cite:23,
- :                    cite:11, cite:24, cite:25}
-I'm skipping whatever remains of this command
 The style file: splncs03.bst
 Database file #1: scigenbibfile.Lukas+Bossard.Luc+Van+Gool.bib
-You've used 22 entries,
+You've used 32 entries,
             2785 wiz_defined-function locations,
-            694 strings with 7537 characters,
-and the built_in function-call counts, 11284 in all, are:
-= -- 911
-> -- 319
-< -- 15
-+ -- 137
-- -- 110
-* -- 698
-:= -- 1493
-add.period$ -- 22
-call.type$ -- 22
-change.case$ -- 147
+            745 strings with 8523 characters,
+and the built_in function-call counts, 18142 in all, are:
+= -- 1514
+> -- 544
+< -- 38
++ -- 227
+- -- 192
+* -- 1115
+:= -- 2313
+add.period$ -- 43
+call.type$ -- 32
+change.case$ -- 218
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 1097
-empty$ -- 1082
-format.name$ -- 124
-if$ -- 2417
+cite$ -- 32
+duplicate$ -- 1627
+empty$ -- 1624
+format.name$ -- 220
+if$ -- 3989
 int.to.chr$ -- 0
-int.to.str$ -- 22
-missing$ -- 202
-newline$ -- 71
-num.names$ -- 44
-pop$ -- 400
+int.to.str$ -- 32
+missing$ -- 333
+newline$ -- 101
+num.names$ -- 64
+pop$ -- 605
 preamble$ -- 1
-purify$ -- 99
+purify$ -- 159
 quote$ -- 0
-skip$ -- 233
+skip$ -- 524
 stack$ -- 0
-substring$ -- 651
-swap$ -- 523
-text.length$ -- 15
+substring$ -- 1024
+swap$ -- 911
+text.length$ -- 38
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 88
+type$ -- 122
 warning$ -- 0
-while$ -- 84
-width$ -- 24
-write$ -- 211
-(There were 6 error messages)
+while$ -- 146
+width$ -- 34
+write$ -- 320
