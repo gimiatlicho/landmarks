@@ -2,11 +2,6 @@
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 
-\bibitem{cite:1}
-Amberg, B., Blake, A., Vetter, T.: On compositional image alignment, with an
-  application to active appearance models. In: IEEE Conference on Computer
-  Vision and Pattern Recognition. pp. 1714--1721 (2009)
-
 \bibitem{cite:2}
 Amberg, B.~Vetter, T.: Optimal landmark detection using shape models and branch
   and bound. In: International Conference on Computer Vision (2011)

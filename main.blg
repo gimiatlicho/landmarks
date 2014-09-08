@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: splncs03.bst
 Database file #1: scigenbibfile.Lukas+Bossard.Luc+Van+Gool.bib
-You've used 32 entries,
+You've used 31 entries,
             2785 wiz_defined-function locations,
-            745 strings with 8523 characters,
-and the built_in function-call counts, 18142 in all, are:
-= -- 1514
-> -- 544
-< -- 38
-+ -- 227
-- -- 192
-* -- 1115
-:= -- 2313
-add.period$ -- 43
-call.type$ -- 32
-change.case$ -- 218
+            740 strings with 8384 characters,
+and the built_in function-call counts, 17467 in all, are:
+= -- 1452
+> -- 527
+< -- 37
++ -- 220
+- -- 186
+* -- 1077
+:= -- 2231
+add.period$ -- 41
+call.type$ -- 31
+change.case$ -- 210
 chr.to.int$ -- 0
-cite$ -- 32
-duplicate$ -- 1627
-empty$ -- 1624
-format.name$ -- 220
-if$ -- 3989
+cite$ -- 31
+duplicate$ -- 1570
+empty$ -- 1563
+format.name$ -- 213
+if$ -- 3832
 int.to.chr$ -- 0
-int.to.str$ -- 32
-missing$ -- 333
-newline$ -- 101
-num.names$ -- 64
-pop$ -- 605
+int.to.str$ -- 31
+missing$ -- 323
+newline$ -- 98
+num.names$ -- 62
+pop$ -- 584
 preamble$ -- 1
-purify$ -- 159
+purify$ -- 154
 quote$ -- 0
-skip$ -- 524
+skip$ -- 499
 stack$ -- 0
-substring$ -- 1024
-swap$ -- 911
-text.length$ -- 38
+substring$ -- 975
+swap$ -- 880
+text.length$ -- 37
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 122
+type$ -- 118
 warning$ -- 0
-while$ -- 146
-width$ -- 34
-write$ -- 320
+while$ -- 141
+width$ -- 33
+write$ -- 310
